@@ -6,3 +6,4 @@ https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
 https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI
 https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+https://blog.angulartraining.com/progressive-web-apps-for-angular-6-and-beyond-f7e4b9a2f9fa
